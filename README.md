@@ -1,2 +1,2 @@
 # building-kmeans-algorithms-using-python
-(not yet finished)
+building the k-means algorithm using python
